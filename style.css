@@ -1,0 +1,133 @@
+body {
+background-image: url(https://a-static.besthdwallpaper.com/fundo-de-superficie-de-madeira-cinza-e-preto-papel-de-parede-1920x1080-83931_48.jpg);
+background-repeat: no-repeat;
+background-size: 260%;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: white
+}
+
+h3 {
+	text-align: center;
+	color: white
+}
+
+p {
+	text-align: center;
+	color: white
+}
+
+.titulo {
+background-color: black;
+ width: 500px;
+ margin: auto;
+ border: 3px solid gold;
+}
+
+.texto {
+	background-color: black;
+ width: 800px;
+ margin: auto;
+ border: 3px solid gold;
+}
+
+.text {
+	width: 25%;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #111;
+  }
+
+  .contact {
+	border: 2px solid gold;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto; 
+	background-color: black;
+  }
+  
+  #contact1 {
+	box-shadow: 10px 10px 8px gold;
+  }
+
+  .item {
+    width: 100%;
+}
+
+.img1{
+ width: 100%;
+ 
+ justify-content: flex-start;
+ }
+
+.img2 {
+  width: 100%;
+ 
+}
+
+.img3 {
+ width: 100%;
+ 
+}
+
+.titulo12 {
+	color: white;
+}
+
+.titulo2 {
+background-color: black;
+ width: 500px;
+ margin: auto;
+ border: 3px solid gold;
+ margin-left: 15px;
+ display: inline-block;
+}
+
+.titulo3 {
+	background-color: black;
+ width: 500px;
+ margin: auto;
+ border: 3px solid gold;
+ margin: auto;
+ margin-top: 10px;
+}
+
+.container {
+    width: 60%;
+    margin: 0px 160px;
+    box-sizing: border-box;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+}
